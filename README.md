@@ -32,10 +32,9 @@ cv2.waitKey(0)
 ii) #To write the image
 ```
 import cv2
-color_img = cv2.imread('mom.png',1)
-tag = color_img[20:80,20:80]
-color_img[90:150,90:150] = tag
-cv2.imshow('212221240051-s.sameer',color_img)
+color_img=cv2.imread('mom.png',1)
+w=cv2.imwrite('1.png',color_img)
+cv2.imshow('212221240051,S.sameer',color_img)
 cv2.waitKey(0)
 
 
@@ -66,13 +65,15 @@ cv2.waitKey(0)
 v) #To cut and paste portion of image
 ```python3
 import cv2
-color_img=cv2.imread('mom.png',1)
-w=cv2.imwrite('1.png',color_img)
-cv2.imshow('212221240051,S.sameer',color_img)
+color_img = cv2.imread('mom.png',1)
+tag = color_img[20:80,20:80]
+color_img[90:150,90:150] = tag
+cv2.imshow('212221240051-s.sameer',color_img)
 cv2.waitKey(0)
 
 
 ```
+
 
 ## Output:
 
