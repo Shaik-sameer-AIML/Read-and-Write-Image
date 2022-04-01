@@ -78,26 +78,20 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>
-<br>
-
+![output](https://github.com/Shaik-sameer-AIML/Read-and-Write-Image/blob/main/de1.JPG?raw=true)
 ### ii)Write the image
 
-<br>
-<br>
+![output](https://github.com/Shaik-sameer-AIML/Read-and-Write-Image/blob/main/de2.JPG?raw=true)
 
 ### iii)Shape of the Image
 
-<br>
-<br>
+![output](https://github.com/Shaik-sameer-AIML/Read-and-Write-Image/blob/main/de3.JPG?raw=true)
 
 ### iv)Access rows and columns
-<br>
-<br>
+![output](https://github.com/Shaik-sameer-AIML/Read-and-Write-Image/blob/main/de4.JPG?raw=true)
 
 ### v)Cut and paste portion of image
-<br>
-<br>
+![output](https://github.com/Shaik-sameer-AIML/Read-and-Write-Image/blob/main/de5.JPG?raw=true)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
